@@ -4,7 +4,34 @@
 60% of pets are obese. Lean Mean Pet Feeding Machine is a mobile app that can help pet owners to calculate an appropriate amount of food to feed and when to feed their pet. This app will hopfully help the pet owners help the health of their pets.
 
 ### Usage
-WIP
+![login](/images/login.png)
+
+Login page for loggin in.
+
+![register](/images/signup.png)
+
+Make a new account
+
+![petlist](/images/petlist.png)
+
+Home page listing your pets
+
+![schedule](/images/schedule.png)
+
+Schedule used to keep track of feeding times.
+
+![vet](/images/vetchat.png)
+
+Send messages to regiestered vets and they can answer.
+
+![forum](/images/forum.png)
+
+Forum where you can have discussions with other users.
+
+![catalog](/images/catalog.png)
+
+A page that informs you if your current food is appropriate for your pet and lists other options.
+
 
 ### Installation
 ```
