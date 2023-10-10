@@ -16,6 +16,10 @@ Make a new account
 
 Home page listing your pets
 
+![petinfo](/images/petinfo.png)
+
+A detailed view of a specific pet's information
+
 ![schedule](/images/schedule.png)
 
 Schedule used to keep track of feeding times.
