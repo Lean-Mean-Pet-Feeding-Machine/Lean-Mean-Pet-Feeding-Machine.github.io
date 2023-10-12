@@ -6,7 +6,7 @@
 ### Usage
 ![login](/images/login.png)
 
-Login page for loggin in.
+Login page for logging in.
 
 ![register](/images/signup.png)
 
@@ -26,7 +26,7 @@ Schedule used to keep track of feeding times.
 
 ![vet](/images/vetchat.png)
 
-Send messages to regiestered vets and they can answer.
+Send messages to registered vets and they can answer.
 
 ![forum](/images/forum.png)
 
