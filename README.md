@@ -36,6 +36,10 @@ Forum where you can have discussions with other users.
 
 A page that informs you if your current food is appropriate for your pet and lists other options.
 
+![settings](/images/settings.png)
+
+Settings tab that allows you to modify settings for your account.
+
 
 ### Installation
 ```
