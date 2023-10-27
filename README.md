@@ -1,7 +1,9 @@
-# Lean Mean Pet Feeding Machine
+<div style="background-color: #4CAF50; color: white; padding: 20px; text-align: center;">
+  <h1>Lean Mean Pet Feeding Machine</h1>
+</div>
 
-### What is this and why does it exist
-60% of pet dogs and cats are obese. Lean Mean Pet Feeding Machine is a mobile app that can help dog and cat owners to calculate an appropriate amount of food to feed and when to feed their pet. This app will hopefully help the pet owners help the health of their pets.
+### What is this and why does it exist?
+In response to the alarming statistic that 60% of pet dogs and cats suffer from obesity, we created Lean Mean Pet Feeding Machine. This innovative mobile app empowers pet owners to accurately determine the right amount of food and feeding schedules for their furry companions, promoting optimal pet health.
 
 ### Usage
 ![login](/images/login.png)
@@ -10,15 +12,15 @@ Login page for logging in.
 
 ![register](/images/signup.png)
 
-Make a new account
+Make a new account.
 
 ![petlist](/images/petlist.png)
 
-Home page listing your pets
+Home page listing your pets.
 
 ![petinfo](/images/petinfo.png)
 
-A detailed view of a specific pet's information
+A detailed view of a specific pet's information. 
 
 ![schedule](/images/schedule.png)
 
@@ -36,9 +38,13 @@ Forum where you can have discussions with other users.
 
 A page that informs you if your current food is appropriate for your pet and lists other options.
 
-![settings](/images/settings.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="/images/settings.png" alt="Setting Page" style="width: 300px;">
+    <img src="/images/light-theme.png" alt="Light Theme" style="width: 300px;">
+    <img src="/images/dark-theme.png" alt="Dark Theme" style="width: 300px;">
+</div>
 
-Settings tab that allows you to modify settings for your account.
+Settings tab that allows you to modify settings for your account. User is able to choose between the light and dark theme.
 
 
 ### Installation
