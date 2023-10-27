@@ -1,7 +1,9 @@
 <div style="background-color: #ADD8E6; color: white; padding: 20px; text-align: center;">
-  <h1>Lean Mean Pet Feeding Machine</h1>
+  <h1 style="display: inline;">Lean Mean Pet Feeding Machine 🐾 </h1>
 </div>
 
+<div style="background-color:	#F0FFFF;">
+  
 ### What is this and why does it exist?
 In response to the alarming statistic that 60% of pet dogs and cats suffer from obesity, we created Lean Mean Pet Feeding Machine. This innovative mobile app empowers pet owners to accurately determine the right amount of food and feeding schedules for their furry companions, promoting optimal pet health.
 
@@ -61,4 +63,4 @@ flutter run
 [Silvia De Benedictis](https://github.com/silviadebenedictis)\
 [Trey Yasunaga](https://github.com/yertsti)
 
-
+</div>
