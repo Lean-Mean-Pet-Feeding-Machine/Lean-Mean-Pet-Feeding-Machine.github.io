@@ -1,4 +1,4 @@
-<div style="background-color: #F0FFFF; color: white; padding: 20px; text-align: center;">
+<div style="background-color: #ADD8E6; color: white; padding: 20px; text-align: center;">
   <h1>Lean Mean Pet Feeding Machine</h1>
 </div>
 
