@@ -22,8 +22,10 @@ Home page listing your pets.
 
 A detailed view of a specific pet's information. 
 
-![schedule](/images/schedule.png)
-
+<div style="display: flex; justify-content: space-around;">
+    <img src="/images/schedule.png" alt="Schedule Page" style="width: 300px;">
+    <img src="/images/meal-editor.png" alt="Meal Editor" style="width: 300px;">
+</div>
 Schedule used to keep track of feeding times.
 
 ![vet](/images/vetchat.png)
