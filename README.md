@@ -38,6 +38,7 @@ Forum where you can have discussions with other users.
 
 <div style="display: flex; justify-content: space-around;">
     <img src="/images/image-selection.png" alt="Schedule Page" style="width: 400px;">
+    <img src="/images/image-selection.png" alt="Schedule Page" style="width: 400px;">
     <img src="/images/catalog-form.png" alt="Meal Editor" style="width: 400px;">
 </div>
 
