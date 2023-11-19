@@ -36,9 +36,12 @@ Send messages to registered vets and they can answer.
 
 Forum where you can have discussions with other users.
 
-![catalog](/images/catalog.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="/images/image-selection.png" alt="Schedule Page" style="width: 400px;">
+    <img src="/images/catalog-form.png" alt="Meal Editor" style="width: 400px;">
+</div>
 
-A page that informs you if your current food is appropriate for your pet and lists other options.
+A page that informs you if your current food is appropriate for your pet and lists other options. It allows the user to select their pet's nutrition label from their gallery and extracts the necessary nutrients. The user has the option to edit and submit the nutrition form as well.
 
 <div style="display: flex; justify-content: space-around;">
     <img src="/images/settings.png" alt="Setting Page" style="width: 300px;">
