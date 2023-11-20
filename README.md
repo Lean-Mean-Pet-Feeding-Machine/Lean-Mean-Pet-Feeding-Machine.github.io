@@ -32,7 +32,7 @@ Schedule used to keep track of feeding times.
 
 Send messages to registered vets and they can answer.
 
-![forum](/images/forum.png)
+![forum](/images/forum-page.png)
 
 Forum where you can have discussions with other users.
 
