@@ -19,8 +19,10 @@ Make a new account.
 Home page listing your pets.
 
 ![petinfo](/images/petinfo.png)
+![petinfo](/images/bcsscore.png)
 
-A detailed view of a specific pet's information. 
+A detailed view of a specific pet's information. Like their BCS score to get a gauge on their healthy weight.
+
 
 <div style="display: flex; justify-content: space-around;">
     <img src="/images/schedule.png" alt="Schedule Page" style="width: 400px;">
