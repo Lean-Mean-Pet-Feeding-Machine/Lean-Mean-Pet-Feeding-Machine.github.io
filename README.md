@@ -64,6 +64,8 @@ flutter run
 ### Development Status
 [Project Board](https://github.com/orgs/Lean-Mean-Pet-Feeding-Machine/projects/2)
 
+[**Evaluation Report**](evaluation.md)
+
 ### Members
 [Silvia De Benedictis](https://github.com/silviadebenedictis)\
 [Trey Yasunaga](https://github.com/yertsti)
