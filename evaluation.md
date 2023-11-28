@@ -22,9 +22,10 @@
 We plan to recruit family members, classmates, and people from discord who either own a dog or a cat.
 
 ## Consent Form
-...
+<a href="https://docs.google.com/document/d/1DPY_STlWvWqsiC2z6-3xnyx54cwUNanE2D_dJVf2jPI/edit">Link to Form
 ## Location and Participants 
-...
+
+Family members can be tested anywhere. If the user is a student, they can be tested on campus.
 
 ## Script
 ...
