@@ -18,7 +18,7 @@
 
   •Dog Owners 
 
-# Recruitment
+## Recruitment
 We plan to recruit family members, classmates, and people from discord who either own a dog or a cat.
 
 ## Consent Form
