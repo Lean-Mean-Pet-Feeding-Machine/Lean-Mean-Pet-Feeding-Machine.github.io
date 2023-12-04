@@ -1,11 +1,13 @@
 # Lean Mean Pet Feeding Machine Usability Evaluation Design
 ## Usability Test
 #### User Goals
-  -User is able to create a pet, view their info and be able to edit their weight.
+  -User is able to easily create a pet, view their info and edit their weight.
   
   -User is able to create and edit a feeding schedule and search the forum.
   
   -User is able to select a photo of their pet's food label to have its nutrient information scanned.
+
+  -User motivated to keep track of their pet's health.
 
 #### Scenarios
  1. Imagine you just got a pet and you want to keep it healthy. You've decided to use Lean Mean Pet Feeder Machine to keep track of your pet's weight. Find out how to add a pet to your list and input it's current weight.

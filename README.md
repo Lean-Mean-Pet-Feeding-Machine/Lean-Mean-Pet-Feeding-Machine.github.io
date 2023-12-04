@@ -25,7 +25,7 @@ A detailed view of a specific pet's information. Like their BCS score to get a g
 
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="/images/schedule.png" alt="Schedule Page" style="width: 400px;">
+    <img src="/images/schedule-page.png" alt="Schedule Page" style="width: 400px;">
     <img src="/images/meal-editor.png" alt="Meal Editor" style="width: 400px;">
 </div>
 Schedule used to keep track of feeding times.
@@ -39,7 +39,7 @@ Send messages to registered vets and they can answer.
 Forum where you can have discussions with other users.
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="/images/image-selection.png" alt="Schedule Page" style="width: 400px;">
+    <img src="/images/image-selection.png" alt="Food Catalog" style="width: 400px;">
     <img src="/images/catalog-form.png" alt="Meal Editor" style="width: 400px;">
 </div>
 
