@@ -35,7 +35,13 @@ Make them download the app, create a new account, give testers the scenarios, re
 
 ## Data
 * Participant #1
-    * Data...
+    * Was able to keep track of new pet's weight. Thinks this is valuable to help maintain a healthy weight for pet.
+    * The vet page doesn't work, but it sounds like a fun idea.
+    * The forum page seemed handy to hear other peoples opininos if it was real.
+    * Make feeding schedule send push notification when to feed pet. Maybe add in medication times as well.
+    * Make food item page be a databse to find different foods, so you can search for other foods that have a different nutrient profile.
+    * UI looks alright
+    * Make login remember last login
 * Participant #2
     * Data...
 * Participant #3
