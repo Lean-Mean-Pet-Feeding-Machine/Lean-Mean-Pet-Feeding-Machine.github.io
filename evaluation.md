@@ -80,6 +80,9 @@ Make them download the app and create a new account. The next step is to give te
     * Scenario 4 Feedback: It would be nice if the food catalog recommended feeding portions.
         
 # Results
--Live chat 
-
--Problems with features working on browser but not on phone
+- Add live chat for vet page [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/34)
+- Change pet creation to be more flexible [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/53)
+- Fix bcs form on pet info page [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/50)
+- IOS deployment [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/49)
+- Notification for schedule page [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/51)
+- Hook up food catalog to database [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/52)
