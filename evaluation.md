@@ -41,11 +41,13 @@ Make them download the app and create a new account. The next step is to give te
 
 ## Data
 * Participant #1
-    * Was able to keep track of new pet's weight. Thinks this is valuable to help maintain a healthy weight for pet.
+    * Dog owner
+    * Used own device
+    * Scenario 1 Feedback: Was able to keep track of new pet's weight. Thinks this is valuable to help maintain a healthy weight for pet.
+    * Scenario 2 Feedback: The forum page seemed handy to hear other peoples opinions if it was real.
+    * Scenario 3 Feedback: Make feeding schedule send push notification when to feed pet. Maybe add in medication times as well.
+    * Scenario 4 Feedback: Make food item page be a database to find different foods, so you can search for other foods that have a different nutrient profile.
     * The vet page doesn't work, but it sounds like a fun idea.
-    * The forum page seemed handy to hear other peoples opinions if it was real.
-    * Make feeding schedule send push notification when to feed pet. Maybe add in medication times as well.
-    * Make food item page be a database to find different foods, so you can search for other foods that have a different nutrient profile.
     * UI looks alright
     * Make login remember last login
 * Participant #2
