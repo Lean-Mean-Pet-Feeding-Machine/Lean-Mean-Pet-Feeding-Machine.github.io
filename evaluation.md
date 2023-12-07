@@ -11,9 +11,13 @@
 
 #### Scenarios
  1. Imagine you just got a pet and you want to keep it healthy. You've decided to use Lean Mean Pet Feeder Machine to keep track of your pet's weight. Find out how to add a pet to your list and input it's current weight.
+    * Expectations: Meet user goal #1
  2. You want to ask other experienced pet owners for advice on what kinds of healthy food brands you should buy for your pet. To check if anyone else had the same question as you, look it up on the forum page.
+    * Expectations: Meet user goal #2
  3. You notice that your pet is gaining weight because you're overfeeding it. You decide to keep track of its feeding times. Find out how you can do that using the app.
+     * Expectations: Meet user goal #2
  4. Imagine you're a pet owner who just bought a new type of pet food. You want to see if the nutrients are suitable for your pet. Find out how to submit a photo of your pet's food label and extract the information from it.
+    * Expectations: Meet user goal #3
 
 ## User Types
 * Cat Owners
@@ -59,19 +63,19 @@ Make them download the app and create a new account. The next step is to give te
     * Scenario 3 Feedback: Schedule page could have push notifications outside the app.
     * Scenario 4 Feedback: Food catalog page needs to first ask permission to use photos.  
 * Participant #4
-    * New dog owner
-    * Used one of our devices
+    * New dog owner.
+    * Used one of our devices.
     * Scenario 1 Feedback: Breed option should be optional for people who don't know their pet's breed.
     * Scenario 2 Feedback: Forum page could include links to recommended food brands.
     * Scenario 3 Feedback: N/A
-    * Scenario 4 Feedback: 
+    * Scenario 4 Feedback: Surprised by how calorie info from the food label photo was read. It's a great way for busy people to add food labels without having to type in all the nutritional details.
 * Participant #5
-    * Owns two dogs
-    * Used android device
+    * Owns two dogs.
+    * Used android device.
     * Scenario 1 Feedback: Liked the profile icons and that you can modify the dog's information.
     * Scenario 2 Feedback: Add more words to search in the forum. Instead of having questions only, it would be nice if there were also stories on owning overweight pets and how owners overcame obstacles.
     * Scenario 3 Feedback: Color blocks for the schedule page look great. The app could use those colors as a theme.
-    * Scenario 4 Feedback: It would be nice if the food catalog had recommended feeding portions.
+    * Scenario 4 Feedback: It would be nice if the food catalog recommended feeding portions.
         
 # Results
 -Live chat 
