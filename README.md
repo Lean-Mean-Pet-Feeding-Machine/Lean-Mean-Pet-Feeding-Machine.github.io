@@ -14,12 +14,12 @@ Login page for logging in.
 
 Make a new account.
 
-![petlist](/images/new_petlist.png)
+![petlist](/images/new-petlist.png)
 
 Home page listing your pets.
 
-![petinfo](/images/new_petinfo.png)
-![petinfo](/images/bcsscore.png)
+![petinfo](/images/pet-info-pt1.png)
+![petinfo](/images/pet-info-pt2.png)
 
 A detailed view of a specific pet's information. Like their BCS score to get a gauge on their healthy weight.
 
