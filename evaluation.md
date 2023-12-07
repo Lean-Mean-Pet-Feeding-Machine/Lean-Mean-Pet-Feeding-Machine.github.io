@@ -74,12 +74,16 @@ Make them download the app and create a new account. The next step is to give te
 * Participant #5
     * Owns two dogs.
     * Used android device.
-    * Scenario 1 Feedback: Liked the profile icons and that you can modify the dog's information.
+    * Scenario 1 Feedback: Liked the profile icons and that you can modify the dog's information. Adding a new pet to the list takes too long to load.
     * Scenario 2 Feedback: Add more words to search in the forum. Instead of having questions only, it would be nice if there were also stories on owning overweight pets and how owners overcame obstacles.
     * Scenario 3 Feedback: Color blocks for the schedule page look great. The app could use those colors as a theme.
     * Scenario 4 Feedback: It would be nice if the food catalog recommended feeding portions.
         
 # Results
+Overall, three out of the five participants were unable to test the app on their phone and ended up using one of our team's android devices. Another main issue that they experienced was not being able to submit their pet's BCS (Body Condition Score) form, which was supposed to change the weight chart. 
+At the end of the test, they were asked if they felt that using the app motivated them to take better care of their pet's health. The majority felt that was true if the app was fully functional. Participants said they liked the forum page the most because it felt realistic and would be useful for pet owners to find others who had the same questions or problems.
+
+Issues to fix after the test: 
 - Add live chat for vet page [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/34)
 - Change pet creation to be more flexible [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/53)
 - Fix bcs form on pet info page [issue](https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder/issues/50)
