@@ -18,11 +18,12 @@ Make a new account.
 
 Home page listing your pets.
 
-![petinfo](/images/pet-info-pt1.png)
-![petinfo](/images/pet-info-pt2.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="/images/pet-info-pt1.png" alt="Schedule Page" style="width: 400px;">
+    <img src="/images/pet-info-pt2.png" alt="Meal Editor" style="width: 400px;">
+</div>
 
 A detailed view of a specific pet's information. Like their BCS score to get a gauge on their healthy weight.
-
 
 <div style="display: flex; justify-content: space-around;">
     <img src="/images/schedule-page.png" alt="Schedule Page" style="width: 400px;">
