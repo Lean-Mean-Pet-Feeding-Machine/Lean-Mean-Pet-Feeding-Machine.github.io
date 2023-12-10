@@ -76,4 +76,4 @@ The application is currently deployed on Firebase App Distribution.
 * Contributions: Created the Sign-up, Pet List, Schedule, My Vet, and Forum mock-up pages. Implemented authorization workflow, where user can login with an existing account and log out using the side menu bar. Also implemented Schedule page to add or modify the pet's feeding times. Other features that were implemented include the search bar on the forum page and the image to text feature on the food catalog page.
 
 [Trey Yasunaga](https://github.com/yertsti)
-* Contributions:
+* Contributions: Created Pet-info, Sign-in and Food item mock-up pages. Added a chart that allows the user to track the weight of their pet over time and can provide a calculated "healthy" weight for their dog or cat. Hooked up Firebase DB to project allowing for CRUD operations for user and pet information. 
