@@ -61,6 +61,9 @@ git clone https://github.com/Lean-Mean-Pet-Feeding-Machine/pet-feeder.git
 cd pet-feeder
 flutter run
 ```
+## Deployment
+The application is currently deployed on Firebase App Distribution.
+[Download Android App](https://appdistribution.firebase.google.com/testerapps/1:447694894462:android:771fcf5f47c2c25f556f2f/releases/3g7ga8a2g12e0?utm_source=firebase-console)
 
 ### Development Status
 [Project Board](https://github.com/orgs/Lean-Mean-Pet-Feeding-Machine/projects/2)
@@ -68,5 +71,8 @@ flutter run
 [**Evaluation Report**](evaluation.md)
 
 ### Members
-[Silvia De Benedictis](https://github.com/silviadebenedictis)\
+[Silvia De Benedictis](https://www.linkedin.com/in/silvia-debenedictis)
+* Contributions: Created the Sign-up, Pet List, Schedule, My Vet, and Forum mock-up pages. Implemented authorization workflow, where user can login with an existing account and log out using the side menu bar. Also implemented Schedule page to add or modify the pet's feeding times. Other features that were implemented include the search bar on the forum page and the image to text feature on the food catalog page.
+
 [Trey Yasunaga](https://github.com/yertsti)
+* Contributions:
