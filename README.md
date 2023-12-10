@@ -3,7 +3,7 @@
 </div>
   
 ### What is this and why does it exist?
-In response to the alarming statistic that 60% of pet dogs and cats suffer from obesity, we created Lean Mean Pet Feeding Machine. This innovative mobile app empowers pet owners to accurately determine the right amount of food and feeding schedules for their furry companions, promoting optimal pet health.
+In response to the alarming statistic that 60% of pet dogs and cats suffer from obesity, we created Lean Mean Pet Feeding Machine. We hope that this innovative mobile app can empower pet owners to keep track of their pet's weight and accurately determine the right amount of food and feeding schedules for their furry companions, promoting optimal pet health.
 
 ### Usage
 ![login](/images/login.png)
