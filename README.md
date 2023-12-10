@@ -63,6 +63,7 @@ flutter run
 ```
 ## Deployment
 The application is currently deployed on Firebase App Distribution.
+
 [Download Android App](https://appdistribution.firebase.google.com/testerapps/1:447694894462:android:771fcf5f47c2c25f556f2f/releases/3g7ga8a2g12e0?utm_source=firebase-console)
 
 ### Development Status
